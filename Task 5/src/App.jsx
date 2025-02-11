@@ -1,11 +1,12 @@
-import JSXRules from "./JSXRules"; 
+import React from 'react'
+import JSXRules from './components/JSXRules'
 
 const App = () => {
   return (
     <div>
-      <JSXRules /> 
+      <JSXRules/>
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App
