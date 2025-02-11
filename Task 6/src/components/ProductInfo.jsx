@@ -2,8 +2,8 @@ import React from "react";
 
 const ProductInfo = () => {
   const product = {
-    name: "Smartphone X",
-    price: 999.99,
+    name: "i phone",
+    price: 2000,
     availability: "In Stock",
   };
 
