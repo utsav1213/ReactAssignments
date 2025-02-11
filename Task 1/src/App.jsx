@@ -1,7 +1,7 @@
 import Greet from '../../Task 2/src/components/Greet'
-import Footer from './components/Footer'
-import Header from './components/Header'
-import MainContent from './components/MainContent'
+import Footer from '../../Task 3/src/components/Footer'
+import Header from '../../Task 3/src/components/Header'
+import MainContent from '../../Task 3/src/components/MainContent'
 function App() {
   
 
