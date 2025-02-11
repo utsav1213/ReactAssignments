@@ -1,11 +1,15 @@
 import Greet from './components/Greet'
-
+import Footer from './components/Footer'
+import Header from './components/Header'
+import MainContent from './components/MainContent'
 function App() {
   
 
   return (
     <>
-   <Greet/>
+   <Header/>
+   <MainContent/>
+   <Footer/>
      </>
   )
 }
